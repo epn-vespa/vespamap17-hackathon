@@ -41,7 +41,7 @@ Indeed. So, we will scale it down to 5 hours. One hour for each design-sprint da
 * 10:00 - 10:30 : Description of hackathon challenge, team setup and preparations
 * 14:00 - 15:00 : **Map**
 * 15:00 - 16:00 : **Sketch**
-* *16:00 - 16:40 : break*
+* *16:00 - 16:30 : break*
 * 16:30 – 17:30 : **Decide**
 
 ### Day 3
