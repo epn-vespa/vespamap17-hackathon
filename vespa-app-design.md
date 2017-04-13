@@ -24,7 +24,7 @@ Indeed. So, we will scale it down to 5 hours. One hour for each design-sprint da
 
 ![map-sketch-decide-prototype-test](/vespa-app-design/gv-design-sprint.png)
 
-1. **Map** (Understand): The first hour discussions will create a path for the design hack. You'll *start at the end* and agree to a long-term goal. Next, you'll make a *map* of the challenge. You'll *ask the experts* to share what they know. Finally, you'll pick a *target*: an ambitious but manageable piece of the problem that you can solve in 5 hours.
+1. **Map** (Understand): The first hour discussions will create a path for the design hack. You'll *start at the end* and agree to a long-term goal. Next, you'll make a *map* of the challenge. You'll *ask the experts* to share what they know. Finally, you'll *pick a target*: an ambitious but manageable piece of the problem that you can solve in 5 hours.
 
 2. **Sketch** (Diverge): After a first hour of understanding the problem and choosing a target for your sprint, on the second hour, you get to focus on solutions. It starts with inspiration: a review of existing ideas to *remix and improv*. Then, each person will *sketch*, following a four-step process that emphasizes critical thinking over artistry.
 
