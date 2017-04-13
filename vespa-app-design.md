@@ -1,4 +1,4 @@
-# VESPA Map Interface Mobile App *Design Sprint*
+# VESPA Mobile App *Design Sprint*
 
 ## Background (why)
 
@@ -6,7 +6,7 @@ TBW
 
 ## Objective (what)
 
-The objective of this hackathon is to design and test a prototype for a VESPA mobile app that could includes data search, discovery and/or basic visualisation/analysis functionalities.
+The objective of this hackathon is to design and test a prototype for a VESPA mobile app that should includes data search and discovery functionalities on a map.
 
 ## Sprint team (who)
 
