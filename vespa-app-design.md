@@ -12,7 +12,7 @@ The objective of this hackathon is to design and test a prototype for a VESPA mo
 
 Everyone can participate!
 
-A small team of 5 to 10 people would be ideal. The rest of the workshop participants can volunteer to test the prototype the sprint will have design.
+A small team of 5 to 7 people would be ideal. The rest of the workshop participants can volunteer to test the prototype the sprint team will have designed.
 
 ## Process (how)
 
